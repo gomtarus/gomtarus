@@ -38,15 +38,19 @@
 <br>
 
 # ⚡ Tech Stack ⚡
-<img src="https://img.shields.io/badge/JAVA-FF5D01?style=flat-square&logo=&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-FF5D01?style=flat-square&logo=&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <br>
+
 # ✨ Other Stack ✨
-<img src="https://img.shields.io/badge/Photoshop-026CDF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Premiere Pro-026CDF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/After Effects-7B42BC?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
-
-
+<img src="https://img.shields.io/badge/Photoshop-026CDF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Premiere Pro-0000FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/After Effects-7B42BC?style=flat-square&logo=Adobe After Effects&logoColor=white"/>

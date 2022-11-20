@@ -1,5 +1,5 @@
 
-# 👋 어서오세요~~ 욱이의 GitHub입니다~~~~ 👋
+# 👋 어서오세요~~ 욱이의 GitHub입니다~~~~ 👋<br>
 
 # 📌 Project 📌
 
@@ -15,7 +15,7 @@
 <br>
 
 ### 🎮 [키즈쏙쏙] 유아 학습 웹 사이트<br>
-#### HTML, CSS, JavaScrit, MySql로 구현한 웹 사이트 입니다.<br>
+#### HTML, CSS, JavaScrit, MySql로 구현한 웹 사이트 입니다.(제작중)<br>
 유아를 타겟으로 만든 웹 사이트로 그림판, 다양한 퀴즈 게임이 준비되어있습니다.
 
 📹 시연 영상<br>
@@ -23,9 +23,9 @@
 📝 기능 설명<br>
 
 💾 소스<br>
+<br>
 
-
-### 💵 [대신할래?] 대타 알바 구인, 구직 웹 사이트<br>
+### 💵 [대신할래?] 대타 알바 구인, 구직 웹 사이트(제작중)<br> 
 #### HTML, CSS, JavaScrit, Spring로 구현한 웹 사이트 입니다.<br>
 대타 알바를 구인, 구직하는 사이트로 급하게 알바가 필요할 때 이용하는 사이트 입니다.<br> 
 대타 알바를 찾거나 등록 할 수 있습니다.<br>
@@ -36,7 +36,7 @@
 📝 기능 설명<br>
 
 💾 소스<br>
-
+<br>
 
 # ⚡ Tech Stack ⚡
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=MySQ&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>

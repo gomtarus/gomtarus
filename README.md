@@ -3,8 +3,19 @@
 
 # 🔎 Project 🔎
 
-1. PC방 프로그램
-[Java]GUI Swing 으로 구현한 프로그램입니다.
+PC방 프로그램<br>
+[Java]Swing 으로 구현한 프로그램입니다.
+
+시연 영상
+기능 설명 
+소스
+
+키즈쏙쏙<br>
+HTML, CSS, JavaScrit로 구현한 웹 사이트 입니다.
+
+시연 영상
+기능 설명
+소스
 
 
 # 📚 Tech Stack 📚

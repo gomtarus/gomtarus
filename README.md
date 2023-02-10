@@ -25,15 +25,15 @@
 💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
 <br>
 
-### 📓 [동아연필] 웹사이트 클론코딩<br> 
+### 📓 [동아연필] 웹사이트 클론코딩(제작중)<br> 
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
 동아연필 사이트를 클론코딩하여 구현하였습니다.
 
-🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
+🌍 [사이트]()<br>
 
-📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
+📝 [기능 설명]()<br>
 
-💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
+💾 [소스]()<br>
 <br>
 
 ## 👪 팀 프로젝트 ##

@@ -18,8 +18,6 @@
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
 유아를 타겟으로 만든 웹 사이트로 그림판, 다양한 퀴즈 게임이 준비되어있습니다.
 
-📹 시연 영상<br>
-
 🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
 
 📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
@@ -30,8 +28,6 @@
 ### 📓 [동아연필] 웹사이트 클론코딩<br> 
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
 동아연필 사이트를 클론코딩하여 구현하였습니다.
-
-📹 시연 영상<br>
 
 🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
 
@@ -46,8 +42,6 @@
 대타 알바를 찾거나 등록 할 수 있습니다.<br>
 로그인, 회원가입, 회원정보찾기, 게시판 등록 등 핵심기능을 구현하였습니다. <br>
 
-📹 시연 영상<br>
-
 🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
 
 📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
@@ -60,8 +54,6 @@
 #### HTML, CSS, JavaScrit, jQuery, Spring, MyBatis로 구현한 웹 사이트 입니다.(제작중)<br>
 
 로그인, 회원가입, 회원정보찾기, 게시판 등록 등 핵심기능을 구현하였습니다. <br>
-
-📹 시연 영상<br>
 
 📝 [기능 설명](https://github.com/gomtarus/FILMAP/blob/main/README.md)<br>
 

@@ -9,7 +9,7 @@
 
 📹 시연 영상<br>
 
-📝 기능 설명<br>
+📝 기능 설명(www.naver.com)<br>
 
 💾 소스<br>
 <br>

@@ -9,9 +9,9 @@
 
 📹 시연 영상<br>
 
-📝 [기능 설명](www.naver.com)<br>
+📝 [기능 설명](https://github.com/gomtarus/PCbang_Program/blob/main/README.md)<br>
 
-💾 소스<br>
+💾 [소스](https://github.com/gomtarus/PCbang_Program)<br>
 <br>
 
 ### 🎮 [키즈쏙쏙] 유아 학습 웹 사이트<br>
@@ -20,9 +20,11 @@
 
 📹 시연 영상<br>
 
-📝 기능 설명<br>
+🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
 
-💾 소스<br>
+📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
+
+💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
 <br>
 
 ### 📓 [동아연필] 웹사이트 클론코딩<br> 
@@ -31,9 +33,12 @@
 
 📹 시연 영상<br>
 
-📝 기능 설명<br>
+🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
 
-💾 소스<br>
+📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
+
+💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
+<br>
 
 ### 💵 [대신할래?] 대타 알바 구인, 구직 웹 사이트<br> 
 #### HTML, CSS, JavaScrit, Spring로 구현한 웹 사이트 입니다.(제작중)<br>
@@ -43,25 +48,24 @@
 
 📹 시연 영상<br>
 
-📝 기능 설명<br>
+🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
 
-💾 소스<br>
+📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
 
-
+💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
 <br>
 
 ## 👪 팀 프로젝트 ##
 ### 🎥 [FILMAP] 영화 리뷰 사이트<br> 
-#### HTML, CSS, JavaScrit, Spring로 구현한 웹 사이트 입니다.(제작중)<br>
-영화~~~~ <br> 
-ㄴㅇㄴㅇㄴㅇ <br>
+#### HTML, CSS, JavaScrit, jQuery, Spring, MyBatis로 구현한 웹 사이트 입니다.(제작중)<br>
+
 로그인, 회원가입, 회원정보찾기, 게시판 등록 등 핵심기능을 구현하였습니다. <br>
 
 📹 시연 영상<br>
 
-📝 기능 설명<br>
+📝 [기능 설명](https://github.com/gomtarus/FILMAP/blob/main/README.md)<br>
 
-💾 소스<br>
+💾 [소스](https://github.com/gomtarus/FILMAP)<br>
 <br>
 
 # ⚡ Tech Stack ⚡

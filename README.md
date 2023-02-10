@@ -25,7 +25,7 @@
 💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
 <br>
 
-### 📓 [동아연필] 웹사이트 클론코딩(제작중)<br> 
+### 📓 [동아연필] 웹사이트 클론코딩(수정중)<br> 
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
 동아연필 사이트를 클론코딩하여 구현하였습니다.
 

@@ -25,6 +25,17 @@
 💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
 <br>
 
+### 📺 Youtube_Shorts 리디자인 코딩<br>
+#### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
+Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습니다.
+
+🌍 [사이트](https://gomtarus.github.io/Youtube_Shorts_Re_design/main.html)<br>
+
+📝 [기능 설명](https://github.com/gomtarus/Youtube_Shorts_Re_design/blob/main/README.md)<br>
+
+💾 [소스](https://github.com/gomtarus/Youtube_Shorts_Re_design)<br>
+<br>
+
 ## 👪 팀 프로젝트 ##
 ### 🎥 [FILMAP] 영화 리뷰 사이트<br> 
 #### HTML, CSS, JavaScrit, jQuery, Spring, MyBatis로 구현한 웹 사이트 입니다.(제작중)<br>

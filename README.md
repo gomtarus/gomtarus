@@ -38,7 +38,7 @@ Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습�
 
 ## 👪 팀 프로젝트 ##
 ### 🎥 [FILMAP] 영화 리뷰 사이트<br> 
-#### HTML, CSS, JavaScrit, jQuery, Spring, MyBatis로 구현한 웹 사이트 입니다.(제작중)<br>
+#### HTML, CSS, JavaScrit, jQuery, Spring, MyBatis로 구현한 웹 사이트 입니다.(정리중)<br>
 
 로그인, 회원가입, 회원정보찾기, 게시판 등록 등 핵심기능을 구현하였습니다. <br>
 

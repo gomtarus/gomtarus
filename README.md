@@ -17,7 +17,7 @@
 💾 [소스](https://github.com/gomtarus/PCbang_Program)<br>
 <br>
 
-### 🎮 [카페 키오스크] 키오스크 웹 구현<br>
+### ☕ [카페 키오스크] 키오스크 웹 구현<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 키오스크입니다.<br>
 ![218109760-ffe66f32-4eae-48cf-a800-81a0a659975a](https://user-images.githubusercontent.com/118651919/220410338-f6ece6ca-9a32-4a6c-990f-a7def628dd85.png)
 

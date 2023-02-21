@@ -23,11 +23,11 @@
 
 카페에서 사용하는 키오스크를 웹으로 구현하였습니다.
 
-🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
+🌍 [사이트](https://gomtarus.github.io/Cafe_kiosk/main.html)<br>
 
-📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
+📝 [기능 설명](https://github.com/gomtarus/Cafe_kiosk/blob/main/README.md)<br>
 
-💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
+💾 [소스](https://github.com/gomtarus/Cafe_kiosk)<br>
 <br>
 
 ### 🎮 [키즈쏙쏙] 유아 학습 웹 사이트<br>

@@ -19,7 +19,7 @@
 
 ### ☕ [카페 키오스크] 키오스크 웹 구현<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 키오스크입니다.(내용 수정중)<br>
-![218109760-ffe66f32-4eae-48cf-a800-81a0a659975a](https://user-images.githubusercontent.com/118651919/220410338-f6ece6ca-9a32-4a6c-990f-a7def628dd85.png)
+![Layer 3](https://user-images.githubusercontent.com/118651919/220414786-60aad28d-4da3-4439-854b-154bf818a509.png)
 
 카페에서 사용하는 키오스크를 웹으로 구현하였습니다.
 

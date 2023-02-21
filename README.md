@@ -5,7 +5,10 @@
 ## 🏃 개인 프로젝트 ##
 ### 💻 PC방 프로그램<br>
 #### [Java]Swing, MySql로 구현한 GUI 프로그램입니다.<br>
+![219660475-6bfb60f8-7dbd-4ee3-8332-d4576e3565d9](https://user-images.githubusercontent.com/118651919/220410129-7660a24d-96e6-4332-abde-f2a29f4cc6e3.png)
+
 로그인, 회원가입, 회원정보찾기, 음식주문, 관리자 페이지(주문관리, 좌석관리, 회원관리) 등 핵심기능을 구현하였습니다.
+
 
 📹 시연 영상<br>
 
@@ -16,6 +19,8 @@
 
 ### 🎮 [키즈쏙쏙] 유아 학습 웹 사이트<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
+![218109760-ffe66f32-4eae-48cf-a800-81a0a659975a](https://user-images.githubusercontent.com/118651919/220410338-f6ece6ca-9a32-4a6c-990f-a7def628dd85.png)
+
 유아를 타겟으로 만든 웹 사이트로 그림판, 다양한 퀴즈 게임이 준비되어있습니다.
 
 🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
@@ -27,6 +32,8 @@
 
 ### 📺 Youtube_Shorts 리디자인 코딩<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
+![Layer 1](https://user-images.githubusercontent.com/118651919/220410938-db6d570c-b5dd-454b-9820-9a3fc27bcfff.png)
+
 Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습니다.
 
 🌍 [사이트](https://gomtarus.github.io/Youtube_Shorts_Re_design/main.html)<br>

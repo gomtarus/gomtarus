@@ -2,7 +2,6 @@
 
 # 📌 Project 📌
 
-## 🏃 개인 프로젝트 ##
 ### 💻 PC방 프로그램<br>
 #### [Java]Swing, MySql로 구현한 GUI 프로그램입니다.<br>
 ![219660475-6bfb60f8-7dbd-4ee3-8332-d4576e3565d9](https://user-images.githubusercontent.com/118651919/220410129-7660a24d-96e6-4332-abde-f2a29f4cc6e3.png)
@@ -52,17 +51,6 @@ Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습�
 📝 [기능 설명](https://github.com/gomtarus/Youtube_Shorts_Re_design/blob/main/README.md)<br>
 
 💾 [소스](https://github.com/gomtarus/Youtube_Shorts_Re_design)<br>
-<br>
-
-## 👪 팀 프로젝트 ##
-### 🎥 [FILMAP] 영화 리뷰 사이트<br> 
-#### HTML, CSS, JavaScrit, jQuery, Spring, MyBatis로 구현한 웹 사이트 입니다.(정리중)<br>
-
-로그인, 회원가입, 회원정보찾기, 게시판 등록 등 핵심기능을 구현하였습니다. <br>
-
-📝 [기능 설명](https://github.com/gomtarus/FILMAP/blob/main/README.md)<br>
-
-💾 [소스](https://github.com/gomtarus/FILMAP)<br>
 <br>
 
 # ⚡ Tech Stack ⚡

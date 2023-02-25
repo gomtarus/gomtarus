@@ -9,9 +9,6 @@
 
 로그인, 회원가입, 회원정보찾기, 음식주문, 관리자 페이지(주문관리, 좌석관리, 회원관리) 등 핵심기능을 구현하였습니다.
 
-
-📹 시연 영상<br>
-
 📝 [기능 설명](https://github.com/gomtarus/PCbang_Program/blob/main/README.md)<br>
 
 💾 [소스](https://github.com/gomtarus/PCbang_Program)<br>

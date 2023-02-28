@@ -13,6 +13,8 @@
 💾 [소스](https://github.com/gomtarus/PCbang_Program)<br>
 <br>
 
+***
+
 ### ☕ [카페 키오스크] 키오스크 웹 구현<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 키오스크입니다.<br>
 ![Layer 2](https://user-images.githubusercontent.com/118651919/221646655-650ade35-12f8-4c3d-a5d5-5234f61b8d58.png)
@@ -27,6 +29,8 @@
 💾 [소스](https://github.com/gomtarus/Cafe_kiosk)<br>
 <br>
 
+***
+
 ### 🎮 [키즈쏙쏙] 유아 학습 웹 사이트<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
 ![218109760-ffe66f32-4eae-48cf-a800-81a0a659975a](https://user-images.githubusercontent.com/118651919/220410338-f6ece6ca-9a32-4a6c-990f-a7def628dd85.png)
@@ -39,6 +43,8 @@
 
 💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
 <br>
+
+***
 
 ### 📺 Youtube_Shorts 리디자인 코딩<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
@@ -53,6 +59,8 @@ Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습�
 💾 [소스](https://github.com/gomtarus/Youtube_Shorts_Re_design)<br>
 <br>
 
+***
+
 # ⚡ Tech Stack ⚡
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -64,7 +72,7 @@ Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습�
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp; 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp; 
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
-<br>
+<br><br>
 
 # ✨ Other Stack ✨
 <img src="https://img.shields.io/badge/Photoshop-026CDF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>&nbsp;

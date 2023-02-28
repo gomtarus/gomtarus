@@ -19,7 +19,7 @@ react, ajax, node.js, mysql......
 
 ### ☕ [카페 키오스크] 키오스크 웹 구현<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 키오스크입니다.<br>
-![Layer 2](https://user-images.githubusercontent.com/118651919/221646655-650ade35-12f8-4c3d-a5d5-5234f61b8d58.png)
+![Layer 2](https://user-images.githubusercontent.com/118651919/222007677-e2a68db0-0e69-4026-b1e0-118a097af062.png)
 
 카페에서 사용하는 키오스크를 웹으로 구현하였습니다.<br>
 메뉴 선택, 추가, 삭제, 주문 금액, 주문 개수 계산 등 키오스크의 핵심 기능을 구현하였습니다.

@@ -8,7 +8,7 @@
 회원가입, 로그인, 장바구니 담기, DB연동 등 기능 현재 프로젝트 구현 중....<br>
 react, ajax, node.js, mysql......
 
-🌍 [사이트]("")<br>
+🌍 사이트<br>
 
 📝 [기능 설명](https://github.com/gomtarus/baemin_munbang_gu/blob/main/README.md)<br>
 

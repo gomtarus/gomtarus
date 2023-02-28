@@ -2,15 +2,17 @@
 
 # 📌 Project 📌
 
-### 💻 PC방 프로그램<br>
-#### [Java]Swing, MySql로 구현한 GUI 프로그램입니다.<br>
-![219660475-6bfb60f8-7dbd-4ee3-8332-d4576e3565d9](https://user-images.githubusercontent.com/118651919/220410129-7660a24d-96e6-4332-abde-f2a29f4cc6e3.png)
+### ☕ 배민문방구<br>
 
-로그인, 회원가입, 회원정보찾기, 음식주문, 관리자 페이지(주문관리, 좌석관리, 회원관리) 등 핵심기능을 구현하였습니다.
+배민 문방구 클론 코딩입니다.
+회원가입, 로그인, 장바구니 담기, DB연동 등 기능 현재 프로젝트 구현 중...
+react, ajax, node.js, mysql......
 
-📝 [기능 설명](https://github.com/gomtarus/PCbang_Program/blob/main/README.md)<br>
+🌍 [사이트]("")<br>
 
-💾 [소스](https://github.com/gomtarus/PCbang_Program)<br>
+📝 [기능 설명](https://github.com/gomtarus/Cafe_kiosk/blob/main/README.md)<br>
+
+💾 [소스](https://github.com/gomtarus/Cafe_kiosk)<br>
 <br>
 
 ***
@@ -57,6 +59,19 @@ Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습�
 📝 [기능 설명](https://github.com/gomtarus/Youtube_Shorts_Re_design/blob/main/README.md)<br>
 
 💾 [소스](https://github.com/gomtarus/Youtube_Shorts_Re_design)<br>
+<br>
+
+***
+
+### 💻 PC방 프로그램<br>
+#### [Java]Swing, MySql로 구현한 GUI 프로그램입니다.<br>
+![219660475-6bfb60f8-7dbd-4ee3-8332-d4576e3565d9](https://user-images.githubusercontent.com/118651919/220410129-7660a24d-96e6-4332-abde-f2a29f4cc6e3.png)
+
+로그인, 회원가입, 회원정보찾기, 음식주문, 관리자 페이지(주문관리, 좌석관리, 회원관리) 등 핵심기능을 구현하였습니다.
+
+📝 [기능 설명](https://github.com/gomtarus/PCbang_Program/blob/main/README.md)<br>
+
+💾 [소스](https://github.com/gomtarus/PCbang_Program)<br>
 <br>
 
 ***

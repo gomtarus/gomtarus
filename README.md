@@ -10,9 +10,9 @@ react, ajax, node.js, mysql......
 
 🌍 [사이트]("")<br>
 
-📝 [기능 설명](https://github.com/gomtarus/Cafe_kiosk/blob/main/README.md)<br>
+📝 [기능 설명](https://github.com/gomtarus/baemin_munbang_gu/blob/main/README.md)<br>
 
-💾 [소스](https://github.com/gomtarus/Cafe_kiosk)<br>
+💾 [소스](https://github.com/gomtarus/baemin_munbang_gu)<br>
 <br>
 
 ***

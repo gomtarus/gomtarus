@@ -50,7 +50,7 @@ react, ajax, node.js, mysql......
 
 ### 📺 Youtube_Shorts 리디자인 코딩<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
-![Layer 4](https://user-images.githubusercontent.com/118651919/222009636-bf71f695-7861-42ba-8787-beea84b124d9.png)
+![Layer 2](https://user-images.githubusercontent.com/118651919/222035892-5932b4b1-34a7-449a-9792-2ce4916d2b1b.png)
 
 Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습니다.
 

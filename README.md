@@ -6,7 +6,6 @@
 
 배민 문방구 클론 코딩입니다.
 회원가입, 로그인, 장바구니 담기, DB연동 등 기능 현재 프로젝트 구현 중....<br>
-![Layer 2](https://user-images.githubusercontent.com/118651919/222951485-95cf8cdd-8154-434d-a662-15134c27839e.png)
 
 react, ajax, node.js, mysql......
 

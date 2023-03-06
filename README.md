@@ -2,22 +2,6 @@
 
 # 📌 Project 📌
 
-### 📓 [쇼핑몰] 배민문방구<br>
-
-배민 문방구 클론 코딩입니다.
-회원가입, 로그인, 장바구니 담기, DB연동 등 기능 현재 프로젝트 구현 중....<br>
-
-react, ajax, node.js, mysql......
-
-🌍 사이트<br>
-
-📝 [기능 설명](https://github.com/gomtarus/baemin_munbang_gu/blob/main/README.md)<br>
-
-💾 [소스](https://github.com/gomtarus/baemin_munbang_gu)<br>
-<br>
-
-***
-
 ### ☕ [카페 키오스크] 키오스크 웹 구현<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 키오스크입니다.<br>
 ![Layer 2](https://user-images.githubusercontent.com/118651919/222007677-e2a68db0-0e69-4026-b1e0-118a097af062.png)

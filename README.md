@@ -22,11 +22,12 @@
 #### React, HTML, CSS, JSX로 구현한 웹 사이트 입니다.<br>
 ![218109760-ffe66f32-4eae-48cf-a800-81a0a659975a](https://user-images.githubusercontent.com/118651919/220410338-f6ece6ca-9a32-4a6c-990f-a7def628dd85.png)
 
-키즈쏙쏙 사이트를 React 환경으로 포팅한 웹 사이트 입니다.<br>
-변경 사항<br><br>
--리액트 환경으로 포팅<br>
--디자인 개선 및 수정<br>
-
+키즈쏙쏙 사이트를 React 환경으로 포팅한 웹 사이트 입니다.<br><br>
+변경 사항<br>
+   - 리액트 환경으로 포팅
+   - HTML, CSS 재구성
+   - 디자인 개선 및 수정<br><br>
+ 
 🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
 
 📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>

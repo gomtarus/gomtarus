@@ -18,6 +18,21 @@
 
 ***
 
+### 🎮 [키즈쏙쏙] 유아 학습 웹 사이트(리액트 포팅)<br>
+#### React, HTML, CSS, JSX로 구현한 웹 사이트 입니다.<br>
+![218109760-ffe66f32-4eae-48cf-a800-81a0a659975a](https://user-images.githubusercontent.com/118651919/220410338-f6ece6ca-9a32-4a6c-990f-a7def628dd85.png)
+
+유아를 타겟으로 만든 웹 사이트로 그림판, 다양한 퀴즈 게임이 준비되어있습니다.
+
+🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
+
+📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
+
+💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
+<br>
+
+***
+
 ### 🎮 [키즈쏙쏙] 유아 학습 웹 사이트<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 사이트 입니다.<br>
 ![218109760-ffe66f32-4eae-48cf-a800-81a0a659975a](https://user-images.githubusercontent.com/118651919/220410338-f6ece6ca-9a32-4a6c-990f-a7def628dd85.png)

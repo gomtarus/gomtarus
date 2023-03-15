@@ -28,11 +28,11 @@
    - HTML, CSS 재구성
    - 디자인 개선 및 수정<br><br>
  
-🌍 [사이트](https://gomtarus.github.io/Kids_ssokssok/main.html)<br>
+🌍 [사이트](http://gomtarus.github.io/Kids_ssokssok_React)<br>
 
-📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok/blob/main/README.md)<br>
+📝 [기능 설명](https://github.com/gomtarus/Kids_ssokssok_React/blob/master/README.md)<br>
 
-💾 [소스](https://github.com/gomtarus/Kids_ssokssok)<br>
+💾 [소스](https://github.com/gomtarus/Kids_ssokssok_React)<br>
 <br>
 
 ***

@@ -77,7 +77,7 @@ Youtube의 Youtube_Shorts 기능을 Youtube_API를 이용하여 구현하였습�
 주요 기능<br>
    - 로그인, 회원가입, 회원정보 찾기
    - 관리자 페이지, 회원관리, 주문관리, 재고관리
-   - 회원 페이지, 음식 주문, 음식 검색
+   - 회원 페이지, 상품 주문, 상품 검색
 
 📝 [기능 설명](https://github.com/gomtarus/PCbang_Program/blob/main/README.md)<br>
 

@@ -2,6 +2,23 @@
 
 # 📌 Project 📌
 
+### 👕 [쇼핑몰] 스트레치엔젤스 웹 클론 코딩<br>
+#### React, HTML, CSS, JSX로 구현한 웹 사이트 입니다.<br>
+![Layer 1](https://user-images.githubusercontent.com/118651919/227250222-dcdc5a87-412c-4a71-b87a-6acb1aef4211.png)
+![Layer 0](https://user-images.githubusercontent.com/118651919/227250248-063ad5ce-5835-499f-9c42-646a68060e42.png)
+
+스트레치엔젤스 웹 사이트를 React로 클론 코딩하였습니다.<br>
+
+🌍 [원본 사이트](https://stretch-angels.com/)<br>
+🌍 [사이트](https://gomtarus.github.io/Cafe_kiosk/main.html)<br>
+
+📝 [기능 설명](https://github.com/gomtarus/Cafe_kiosk/blob/main/README.md)<br>
+
+💾 [소스](https://github.com/gomtarus/Cafe_kiosk)<br>
+<br>
+
+***
+
 ### ☕ [카페 키오스크] 키오스크 웹 구현<br>
 #### HTML, CSS, JavaScrit, jQuery로 구현한 웹 키오스크입니다.<br>
 ![Layer 2](https://user-images.githubusercontent.com/118651919/222007677-e2a68db0-0e69-4026-b1e0-118a097af062.png)

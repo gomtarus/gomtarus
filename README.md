@@ -10,6 +10,7 @@
 스트레치엔젤스 웹 사이트를 React로 클론 코딩하였습니다.<br>
 
 🌍 [원본 사이트](https://stretch-angels.com/)<br>
+
 🌍 [사이트](https://gomtarus.github.io/Stretch-angel_clone_coding)<br>
 
 📝 [기능 설명](https://github.com/gomtarus/Stretch-angel_clone_coding/blob/main/README.md)<br>

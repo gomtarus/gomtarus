@@ -3,7 +3,7 @@
 # 📌 Project 📌
 
 ### 👕 [쇼핑몰] 스트레치엔젤스 웹 클론 코딩<br>
-#### React, HTML, CSS, JSX로 구현한 웹 사이트 입니다.<br>
+#### React, HTML, CSS로 구현한 웹 사이트 입니다.<br>
 ![Layer 1](https://user-images.githubusercontent.com/118651919/227250222-dcdc5a87-412c-4a71-b87a-6acb1aef4211.png)
 ![Layer 0](https://user-images.githubusercontent.com/118651919/227250248-063ad5ce-5835-499f-9c42-646a68060e42.png)
 
@@ -37,7 +37,7 @@
 ***
 
 ### 🎮 [키즈쏙쏙] 유아 학습 웹 사이트(리액트 포팅)<br>
-#### React, HTML, CSS, JSX로 구현한 웹 사이트 입니다.<br>
+#### React, HTML, CSS로 구현한 웹 사이트 입니다.<br>
 ![gomtarus github io_Kids_ssokssok_React_](https://user-images.githubusercontent.com/118651919/225491382-bd7d9e3c-fb23-4e7b-a7c4-541df4208a05.png)
 
 키즈쏙쏙 사이트를 React 환경으로 포팅한 웹 사이트 입니다.<br><br>
